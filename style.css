@@ -1,0 +1,186 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  background-color: #060608;
+   color: #a80038;
+}
+h1{
+
+  font-size: 7rem;
+
+  font-family: 'PT Sans Caption', sans-serif;
+}
+h2{
+  font-family: 'PT Sans Caption', sans-serif;
+  font-size: 3rem;
+  color: #ab1212;
+}
+p{
+  line-height: 2.5rem;
+  color:#fff;
+}
+u{
+  color: #fff;
+}
+a{
+
+  color:#dfdfdf;
+}
+a:hover{
+  color:#ff971d;
+}
+.navbar-nav{
+  font-family: 'Russo One', sans-serif;
+padding:1%;
+margin-left: auto;
+margin-right: 200px;
+}
+.navbar-brand{
+  font-family: 'Monoton', cursive;
+  font-size: 2rem;
+  margin-left: 200px;
+}
+.navbar-brand::first-letter{
+  color:#480032;
+}
+.navbar {
+  background-color:black;
+}
+#manson:hover{
+  color:#630000;
+}
+#nav-h:hover{
+    background-color:#630000;
+}
+.a{
+  background-color:#060608;
+  padding-left: 0;
+  padding-right: 0;
+}
+.head-sec{
+
+  width:1450px;
+}
+.smoke{
+height:800px;
+  width:100%;
+
+}
+.weeknd-img{
+  height: 800px;
+}
+.xo1 {
+  margin-top:100px;
+  margin-bottom: 100px;
+  width:90%;
+  opacity: 5%;
+}
+.xo2{
+  margin-top:100px;
+  margin-bottom: 100px;
+  width:90%;
+  opacity: 50%;
+}
+
+.weekn:hover{
+  background-color:#480032;}
+.a1{
+
+z-index: -1;
+}
+.a2{
+
+word-spacing: 2rem;
+  color:#fff;
+text-align: center;
+
+}
+.many{
+  width:100%;
+  opacity: 10%;
+}
+.a-w{
+  color:#fff;
+}
+.col{
+  padding: 0;
+}
+.container-fluid{
+
+}
+.car{
+
+  width: 100%;
+}
+#mid-container{
+  padding-top: 100px;
+}
+.mid-con{
+  align:left;
+  padding: 20px;
+  background-color: #1a1a2e;opacity: 70%;
+}
+
+.weeknd-a{
+border-radius:100%;
+padding: 60px;
+  width:300px;
+}
+
+#test{
+  text-align: center;
+
+
+}
+.carousel-item{
+
+  background-color:#184d47;
+  padding: 100px;
+
+}
+#footer{
+  padding: 50px;
+  text-align: center;
+}
+.btn{
+  width: 200px;
+
+  margin:50px;
+}
+i{
+  padding:20px;
+}
+@media(max-width:1200px)
+{
+  .weeknds-car{
+    width: 100%;
+  }
+
+.smoke{
+  display: none;
+}
+  .weeknd-img{
+  display: none;
+  }
+  .car{
+    padding-top:auto;
+    padding-bottom: auto;
+
+  }
+}
+@media(max-width:700px)
+{
+  .row{
+    text-align: center;
+  }
+  .car{
+
+    width:400px;
+
+  }
+  .mid-con{
+    text-align: left;
+  }
+  h2{
+    text-align: center;
+  }
+}
